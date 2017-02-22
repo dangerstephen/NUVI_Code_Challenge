@@ -50,7 +50,8 @@ exit
 ## How it works
 
 Here is what each line of code does and why I decided to do it this way:
-asadfadsfdasfadfadsf
+
+![screen shot 2017-02-22 at 12 51 01 pm](https://cloud.githubusercontent.com/assets/22550925/23231717/ae29c1f0-f8fd-11e6-85ee-81a51260f601.png)
 
 
 
