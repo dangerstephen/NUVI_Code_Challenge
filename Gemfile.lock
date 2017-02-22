@@ -6,6 +6,7 @@ GEM
       mini_portile2 (~> 2.1.0)
     redis (3.3.3)
     ruby (0.1.0)
+    rubyzip (1.2.0)
 
 PLATFORMS
   ruby
@@ -14,6 +15,7 @@ DEPENDENCIES
   nokogiri
   redis
   ruby
+  rubyzip
 
 BUNDLED WITH
    1.13.6
